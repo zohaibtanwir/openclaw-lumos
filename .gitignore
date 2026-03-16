@@ -1,0 +1,10 @@
+# OpenClaw config (contains API keys and tokens)
+openclaw.json
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
