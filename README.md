@@ -292,7 +292,7 @@ Internet ──> Hetzner Firewall (deny all except 443)
 openclaw-lumos/
 ├── README.md               # This file
 ├── .gitignore              # Excludes openclaw.json (contains secrets)
-├── openclaw.example.json   # Sanitized OpenClaw config template
+├── openclaw.redacted.json  # Sanitized OpenClaw config (secrets replaced)
 └── lumos-connector.gs      # Google Apps Script (Gmail/Calendar → Telegram)
 ```
 
